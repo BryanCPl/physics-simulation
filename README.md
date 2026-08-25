@@ -1,2 +1,2 @@
 # physics-simulation
-Un sistema de simulacion de fisica en python 
+Un sistema de simulación de física en python 
